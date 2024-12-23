@@ -57,11 +57,9 @@
 
 ## 📊 GitHub Stats:
 
-<img style="display: block; margin: 0 auto;" src="https://readme-status.zair.top/api/top-langs?username=ryaang&show_icons=true&locale=en&layout=compact&theme=transparent&hide=vhdl,jupyter%20notebook,html" alt="Top Languages" />
+<img height=200 align="center" src="https://readme-status.zair.top/api/top-langs?username=ryaang&show_icons=true&locale=en&layout=compact&theme=transparent&size_weight=0.1&count_weight=0.9&hide=jupyter%20notebook,css,scss&langs_count=10&card_width=320"><img height=200  align="center" src="https://readme-status.zair.top/api?username=ryaang&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true&number_format=long&card_width=300&line_height=24.5">
 
-<img align="center" src="https://readme-status.zair.top/api?username=ryaang&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true" alt="all_commits" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryaang&&theme=transparent" alt="streak-stats" />
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryaang&&theme=transparent&card_width=280&card_height=200"><img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=Ryaang&limit=3&theme=transparent&combine_all_yearly_contributions=true&card_width=30">
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ryaang&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
