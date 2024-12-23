@@ -2,7 +2,7 @@
 <h3 align="center">A master student from Zhejiang University</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryaang" alt="ryaang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryaang&theme=juicyfresh&no-frame=true&title=-Reviews&row=1&no-bg=true" alt="ryaang" /></a> </p>
 
 - 🔭 I’m currently **researching LLM.**
 
@@ -57,10 +57,10 @@
 
 ## 📊 GitHub Stats:
 
-<img height=200 align="center" src="https://readme-status.zair.top/api/top-langs?username=ryaang&show_icons=true&locale=en&layout=compact&theme=transparent&size_weight=0.1&count_weight=0.9&hide=jupyter%20notebook,css,scss&langs_count=10&card_width=320"><img height=200  align="center" src="https://readme-status.zair.top/api?username=ryaang&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true&number_format=long&card_width=300&line_height=24.5">
-
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryaang&&theme=transparent&card_width=280&card_height=200"><img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=Ryaang&limit=3&theme=transparent&combine_all_yearly_contributions=true&card_width=30">
-
+<div  align="center">
+  <img height=200 align="center" src="https://readme-status.zair.top/api/top-langs?username=ryaang&hide_border=true&show_icons=true&locale=en&layout=compact&theme=transparent&size_weight=0.1&count_weight=0.9&hide=jupyter%20notebook,css,scss&langs_count=10&card_width=320"><img height=200 align="center" src="https://readme-status.zair.top/api?username=ryaang&hide_border=true&show_icons=true&locale=en&theme=transparent&include_all_commits=true&count_private=true&number_format=long&card_width=300&line_height=24.5">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryaang&theme=transparent&hide_border=true&card_width=280&card_height=200"><img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=Ryaang&limit=3&theme=transparent&hide_border=true&combine_all_yearly_contributions=true&card_width=30">
+</div>
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ryaang&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
